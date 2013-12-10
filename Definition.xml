@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExtensionObject Type="object" Label="QvActionButton" Description="Executes a given javascript routine">
+	<Text Label="Label" Type="" Initial="" Expression="Action" />
+	<Text Label="Script parameters" Type="" Initial="" Expression="" />
+	<Text Label="Script func body" Type="" Initial="" Expression="" />
+	
+	<Initiate Name="Caption.Icon.Print" Value="0" />
+	<Initiate Name="Caption.Icon.SendToExcel" Value="0" />
+	<Initiate Name="Caption.Allow.Minimize" Value="0" />
+	<Initiate Name="Caption.Allow.Maximize" Value="0" />
+	<Initiate Name="Layout.Border.Use" Value="0" />
+	<Initiate Name="Background.UseColor" Value="0" />
+	<Initiate Name="Caption.Show" Value="0" />	
+	<Initiate Name="Layout.Normal.Width" Value="128" />	
+	<Initiate Name="Layout.Normal.Height" Value="32" />	
+	<PropertiesPage Version="11" File="myprops.qvpp" />
+</ExtensionObject>
